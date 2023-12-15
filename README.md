@@ -5,7 +5,7 @@
 - <b>PowerShell</b>
   - 
 - <b>Python</b>
-  - 
+  - Basic Python Workshop
 
 <h2>Certifications</h2>
 

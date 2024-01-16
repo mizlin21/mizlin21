@@ -9,7 +9,9 @@
 
 <h2>Certifications</h2>
 
-- Currently working on IT support google certification
+- Google IT support certification
+- Google Project Management Certification
+- Currently working on google cybersecurity
 
 <h2>Proficiencies</h2>
 

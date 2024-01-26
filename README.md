@@ -17,6 +17,7 @@
 - Comptia Security + Expected (7/2024)
 
 <h2>Competitions</h2>
+
 - NCL (National Cyber League)
 - CDDC (Collegiate Cyber Defense Competition)
 

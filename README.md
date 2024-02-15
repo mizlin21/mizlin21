@@ -6,6 +6,11 @@
   - 
 - <b>Python</b>
   - Basic Python Workshop
+    #nms-web
+
+    upload product video for showing basic Python workshop
+
+- <b>Creating my website</b>
 
 <h2>Certifications</h2>
 
@@ -14,12 +19,12 @@
 - Google cybersecurity Certification
 - FEMA IS-100.C: Introduction To Incident Command System, ICS-100
 - ICS2 Entry level Cybersecurity Certification Expected (4/2024)
-- Comptia Security + Expected (7/2024)
+- Comptia Security + Expected (6/2024)
 
 <h2>Competitions</h2>
 
-- NCL (National Cyber League)
-- CDDC (Collegiate Cyber Defense Competition)
+- NCL (National Cyber League) year 2018
+- CDDC (Collegiate Cyber Defense Competition) year 2019
 
 <h2>Proficiencies</h2>
 

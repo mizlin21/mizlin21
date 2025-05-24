@@ -44,7 +44,7 @@ A.A.S. in Cybersecurity
 <h2>Volunteer</h2>
 -<b>Penetration Testing </b>
   - Location: Burke Rehabilitation Hospital
-  - Dates: Jan 2017 - May 2019 
+  - Dates: Jan 2017 through May 2019 
     - Performing bi-weekly phishing campaigns from within the network
     - Assisting IT management in the creation of security audits and reports
     - Working with staff to document and troubleshoot technical issues

@@ -18,8 +18,7 @@
 - Google Project Management Certification
 - Google cybersecurity Certification
 - FEMA IS-100.C: Introduction To Incident Command System, ICS-100
-- ICS2 Entry level Cybersecurity Certification Expected (4/2024)
-- Comptia Security + Expected (6/2024)
+
 
 <h2>Competitions</h2>
 

@@ -1,4 +1,9 @@
 <h1>Hi, I'm Linda! <br/> <a href="https://www.linkedin.com/in/linda-yamil-garaycochea-saune/">Cybersecurity Professional</a> </h1>
+I have profound interest in technology and a dedication to solving complex problems.
+
+## Objective
+
+I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -11,13 +16,6 @@
     upload product video for showing basic Python workshop
 
 - <b>Creating my website</b>
-
-<h2>Certifications</h2>
-
-- Google IT support certification
-- Google Project Management Certification
-- Google cybersecurity Certification
-- FEMA IS-100.C: Introduction To Incident Command System, ICS-100
 
 
 <h2>Competitions</h2>
@@ -34,6 +32,58 @@
 - Continuous Integration Tools: Jenkins
 - Cloud Technology: AWS
 
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+<h2>Certifications</h2>
+
+- Google IT support certification
+- Google Project Management Certification
+- Google cybersecurity Certification
+- FEMA IS-100.C: Introduction To Incident Command System, ICS-100
+
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
+
 <h2>Education</h2>
 A.A.S. in Cybersecurity
 
@@ -41,8 +91,8 @@ A.A.S. in Cybersecurity
 - WICYS year 2018 and 2019
 - Cybersecurity club
 
-<h2>Volunteer</h2>
--<b>Penetration Testing </b>
+## Volunteer</h2>
+Penetration Testing 
   - Location: Burke Rehabilitation Hospital
   - Dates: Jan 2017 through May 2019 
     - Performing bi-weekly phishing campaigns from within the network
@@ -51,7 +101,7 @@ A.A.S. in Cybersecurity
     - Resolving helpdesk tickets relating to hardware and software
     - Configuring database entries to ensure HIPAA compliance with medical records
 
-<h2>Internships</h2>
+## Internships
 Cybersecurity Research Intern
 Westchester Community College / Mercy College 
 Jun 2018 
@@ -69,10 +119,16 @@ Jun 2018
 
 Junior Computer Technician Intern
 Tekovery
-Sep 2016 - Oct 2016 
-Mount Vernon, 
+Sep 2016 to Oct 2016 
+Mount Vernon, NY
 -Tested, configured, and prepared computer equipment 
 -Diagnosed hardware and software issues 
 
 <h2>Languages</h2>
 English and Spanish
+
+
+
+
+
+

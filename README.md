@@ -41,19 +41,19 @@ A.A.S. in Cybersecurity
 - WICYS year 2018 and 2019
 - Cybersecurity club
 
-<h2>Penetration Testing Volunteer</h2>
-Burke Rehabilitation Hospital
-Jan 2017 - May 2019 
-White Plains, NY
-- Performing bi-weekly phishing campaigns from within the network
-- Assisting IT management in the creation of security audits and reports
-- Working with staff to document and troubleshoot technical issues
-- Resolving helpdesk tickets relating to hardware and software
-- Configuring database entries to ensure HIPAA compliance with medical records
+<h2>Volunteer</h2>
+-<b>Penetration Testing </b>
+  - Location: Burke Rehabilitation Hospital
+  - Dates: Jan 2017 - May 2019 
+    - Performing bi-weekly phishing campaigns from within the network
+    - Assisting IT management in the creation of security audits and reports
+    - Working with staff to document and troubleshoot technical issues
+    - Resolving helpdesk tickets relating to hardware and software
+    - Configuring database entries to ensure HIPAA compliance with medical records
 
 <h2>Internships</h2>
 Cybersecurity Research Intern
-Westchester Community College / Mercy College
+Westchester Community College / Mercy College 
 Jun 2018 
 Westchester, NY
 - Created a phishing campaign environment
@@ -61,7 +61,7 @@ Westchester, NY
 - Implemented the project and live demonstration
 
 Summer Internship
-Westchester Community CollegeWestchester Community College
+Westchester Community College
 Jun 2018 
 - Recertified hardware equipment for Fall semester
 - Maintained and supported pcs

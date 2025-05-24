@@ -36,3 +36,43 @@
 
 <h2>Education</h2>
 A.A.S. in Cybersecurity
+
+<h2>Activities</h2>
+- WICYS year 2018 and 2019
+- Cybersecurity club
+
+<h2>Volunteer</h2>
+Burke Rehabilitation HospitalBurke Rehabilitation Hospital
+Jan 2017 - May 2019 · 2 yrs 5 mosJan 2017 to May 2019 · 2 yrs 5 mos
+White Plains, NYWhite Plains, NY
+- Performing bi-weekly phishing campaigns from within the network
+- Assisting IT management in the creation of security audits and reports
+- Working with staff to document and troubleshoot technical issues
+- Resolving helpdesk tickets relating to hardware and software
+- Configuring database entries to ensure HIPAA compliance with medical records
+
+<h2>Internships</h2>
+Cybersecurity Research Intern
+Westchester Community College / Mercy CollegeWestchester Community College / Mercy College
+Jun 2018 - Jun 2018 · 1 moJun 2018 to Jun 2018 · 1 mo
+Westchester, NYWestchester, NY
+- Created a phishing campaign environment
+- Tested, deploy, and defined research results
+- Implemented the project and live demonstration
+
+Summer Internship
+Westchester Community CollegeWestchester Community College
+Jun 2018 - Jun 2018 · 1 moJun 2018 to Jun 2018 · 1 mo
+- Recertified hardware equipment for Fall semester
+- Maintained and supported pcs
+- Managed helpdesk tickets troubleshoot and repair
+
+Junior Computer Technician Intern
+TekoveryTekovery
+Sep 2016 - Oct 2016 · 2 mosSep 2016 to Oct 2016 · 2 mos
+Mount Vernon, NY Mount Vernon, NY 
+-Tested, configured, and prepared computer equipment 
+-Diagnosed hardware and software issues 
+
+<h2>Languages</h2>
+English and Spanish

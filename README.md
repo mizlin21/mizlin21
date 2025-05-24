@@ -42,14 +42,14 @@ A.A.S. in Cybersecurity
 - Cybersecurity club
 
 <h2>Volunteer</h2>
-Burke Rehabilitation HospitalBurke Rehabilitation Hospital
+<b>Burke Rehabilitation HospitalBurke Rehabilitation Hospital
 Jan 2017 - May 2019 · 2 yrs 5 mosJan 2017 to May 2019 · 2 yrs 5 mos
 White Plains, NYWhite Plains, NY
 - Performing bi-weekly phishing campaigns from within the network
 - Assisting IT management in the creation of security audits and reports
 - Working with staff to document and troubleshoot technical issues
 - Resolving helpdesk tickets relating to hardware and software
-- Configuring database entries to ensure HIPAA compliance with medical records
+- Configuring database entries to ensure HIPAA compliance with medical records</b>
 
 <h2>Internships</h2>
 Cybersecurity Research Intern

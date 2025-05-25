@@ -61,8 +61,6 @@ I am now eager to transition into this field, specifically aiming to join a Secu
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
 ### SIEM
 <div>
@@ -70,6 +68,28 @@ I am now eager to transition into this field, specifically aiming to join a Secu
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
+
+##Programming Languages 
+<div>
+  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
+</div>
+
 
 <h2>Certifications</h2>
 

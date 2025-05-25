@@ -253,22 +253,6 @@ Configured, tested, and diagnosed hardware/software issues.
 ![WiCyS](https://img.shields.io/badge/-WiCyS-92278F?&style=for-the-badge&logoColor=white)  
 ![DEF CON](https://img.shields.io/badge/-DEF_CON-000000?&style=for-the-badge&logoColor=white)
 
-<div>
-  <img src="https://img.shields.io/badge/-National_Cyber_League-00274D?&style=for-the-badge&logoColor=white" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/-CCDC_Competition-003366?&style=for-the-badge&logoColor=white" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/-WiCyS-92278F?&style=for-the-badge&logoColor=white" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/-DEF_CON-000000?&style=for-the-badge&logoColor=white" />
-</div>
-
 ---
 
 ## 🤖 AI & LLM Interests

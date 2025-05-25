@@ -21,6 +21,10 @@ I am now eager to transition into this field, specifically aiming to join a Secu
 <h2>Competitions</h2>
 
 - NCL (National Cyber League) year 2018
+<div>
+  <img src="https://img.shields.io/badge/-National_Cyber_League-00274D?&style=for-the-badge&logoColor=white" />
+</div>
+
 - CDDC (Collegiate Cyber Defense Competition) year 2019
 
 <h2>Proficiencies</h2>

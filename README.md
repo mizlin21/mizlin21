@@ -8,8 +8,6 @@
 ## 🧑‍💻 About Me
 I have profound interest in technology and a dedication to solving complex problems.
 
-I'm a cybersecurity professional with hands-on experience in system protection, threat detection, and digital forensics. I'm currently expanding my skill set into the world of Artificial Intelligence, particularly focusing on Large Language Models (LLMs) and how they can be used to enhance security operations, automate analysis, and support cyber defense strategies.
-
 ---
 
 ## 🎯 Objective
@@ -54,7 +52,7 @@ I'm a cybersecurity professional with hands-on experience in system protection, 
 
 ## 🛡️ Cybersecurity Skills
 
-- Network Security & Firewalls 
+### Network Security & Firewalls 
 
 <div>
   <img src="https://img.shields.io/badge/-Cisco_Umbrella-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
@@ -64,7 +62,7 @@ I'm a cybersecurity professional with hands-on experience in system protection, 
   <img src="https://img.shields.io/badge/-pfSense-23324D?&style=for-the-badge&logoColor=white" />
 </div>
 
-- Security Monitoring  
+### Security Monitoring  
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 
@@ -73,7 +71,7 @@ I'm a cybersecurity professional with hands-on experience in system protection, 
 </div>
 
 
-- Vulnerability Scanning 
+### Vulnerability Scanning 
 <div>
   <img src="https://img.shields.io/badge/-OpenVAS-339966?&style=for-the-badge&logoColor=white" />
 </div>
@@ -82,9 +80,9 @@ I'm a cybersecurity professional with hands-on experience in system protection, 
   <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logoColor=white" />
 </div>
 
-- Threat Intelligence & IOC Analysis (AbuseIPDB, OTX)
+### Threat Intelligence & IOC Analysis (AbuseIPDB, OTX)
 
-- Digital Forensics
+### Digital Forensics
 
 <div>
   <img src="https://img.shields.io/badge/-Autopsy-2A2A2A?&style=for-the-badge&logoColor=white" />
@@ -98,7 +96,7 @@ I'm a cybersecurity professional with hands-on experience in system protection, 
   <img src="https://img.shields.io/badge/-HxD-800000?&style=for-the-badge&logoColor=white" />
 </div>
 
-- Security Policy & Compliance 
+### Security Policy & Compliance 
 
 <div>
   <img src="https://img.shields.io/badge/-NIST-000000?&style=for-the-badge&logoColor=white" />

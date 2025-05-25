@@ -51,6 +51,7 @@ Aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ---
+## Proficiencies 
 
 ## Operating Systems
 <div>
@@ -180,7 +181,7 @@ Aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ---
 
-<h2>Education</h2>
+<h2>🎓 Education</h2>
 A.A.S. in Cybersecurity
 
 ---
@@ -203,7 +204,7 @@ Penetration Testing
 
 ---
 
-## Internships
+## 💻 Internships
 Cybersecurity Research Intern
 Westchester Community College / Mercy College 
 Jun 2018 
@@ -247,16 +248,6 @@ Mount Vernon, NY
 
 ---
 
-<h2>Languages</h2>
-English and Spanish
-
----
-
-**“Securing the digital world today — building the intelligent solutions of tomorrow.”**
-
-
----
-
 ## 🛡️ Cybersecurity Skills
 
 - Network Security & Firewalls (Cisco Umbrella, pfSense)
@@ -288,11 +279,22 @@ English and Spanish
 
 ---
 
+<h2>Languages</h2>
+English and Spanish
+
+---
+
 ## 📫 Connect with Me
 
 - Portfolio Website: []
 
 ---
+
+**“Securing the digital world today — building the intelligent solutions of tomorrow.”**
+
+---
+
+##
 
 
 

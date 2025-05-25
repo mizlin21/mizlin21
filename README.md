@@ -1,5 +1,13 @@
 <h1>Hi, I'm Linda! <br/> <a href="https://www.linkedin.com/in/linda-yamil-garaycochea-saune/">Cybersecurity Professional</a> </h1>
+
+
+**Cybersecurity Professional | AI & LLM Explorer | Problem-Solver with a Passion for Technology**
+
+---
+## 🚀 About Me
 I have profound interest in technology and a dedication to solving complex problems.
+
+I'm a cybersecurity professional with hands-on experience in system protection, threat detection, and digital forensics. I'm currently expanding my skill set into the world of Artificial Intelligence, particularly focusing on Large Language Models (LLMs) and how they can be used to enhance security operations, automate analysis, and support cyber defense strategies.
 
 ## Objective
 
@@ -24,7 +32,8 @@ Aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 - CDDC (Collegiate Cyber Defense Competition) year 2019
 
 
-## Skills
+## 
+## 📁 Featured Skill Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -142,8 +151,7 @@ Aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
   <img src="https://img.shields.io/badge/-Visual_Basic-512BD4?&style=for-the-badge&logo=dotnet&logoColor=white" />
 </div>
 
-## Certifications
-
+## 📜 Certifications
 <div>
   <img src="https://img.shields.io/badge/-Google_IT_Support-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 </div>
@@ -222,6 +230,47 @@ Mount Vernon, NY
 English and Spanish
 
 
+**“Securing the digital world today — building the intelligent solutions of tomorrow.”**
+
+
+---
+
+## 🛡️ Cybersecurity Skills
+
+- Network Security & Firewalls (Cisco Umbrella, pfSense)
+- Security Monitoring (Wireshark, Splunk, ELK, Snort)
+- Vulnerability Scanning (Nmap, OpenVAS)
+- Threat Intelligence & IOC Analysis (AbuseIPDB, OTX)
+- Digital Forensics (Autopsy, ProDiscover, HxD)
+- Security Policy & Compliance (NIST, ISO 27001)
+
+---
+
+## 🤖 AI & LLM Interests
+
+- Prompt Engineering & RAG Architectures
+- Python, LangChain, Hugging Face, OpenAI API
+- AI Chatbots for cybersecurity FAQs and logs
+- Log anomaly detection with LLMs
+- Building AI-enhanced tools for SOC automation
+
+
+---
+
+## 🧠 Currently Learning
+
+- Advanced Prompt Engineering & LangChain
+- LLM Fine-Tuning & Custom Retrieval Pipelines
+- Secure AI Development & Threat Modeling
+- Building a full-stack AI-powered SOC dashboard
+
+---
+
+## 📫 Connect with Me
+
+- Portfolio Website: []
+
+---
 
 
 

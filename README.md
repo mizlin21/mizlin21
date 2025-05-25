@@ -12,9 +12,9 @@ I'm a cybersecurity professional with hands-on experience in system protection, 
 
 ---
 
-## Objective
+## 🎯 Objective
 
-Aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+**To contribute to a SOC environment as a Tier 1 Analyst while integrating AI-driven tools to strengthen cyber defense strategies.**
 
 ---
 
@@ -31,11 +31,10 @@ Aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 - <b>Creating my website</b>
 
 ---
+## 🏆 Competitions
 
-<h2>Competitions</h2>
-
-- NCL (National Cyber League) year 2018
-- CDDC (Collegiate Cyber Defense Competition) year 2019
+- **NCL (National Cyber League)** – 2018  
+- **CCDC (Collegiate Cyber Defense Competition)** – 2019
 
 ---
 
@@ -111,7 +110,7 @@ Aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ---
 
-## Proficiencies 
+## 💻 Platforms & Tools
 
 ### Operating Systems
 <div>
@@ -169,7 +168,7 @@ Aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-### Programming Languages 
+### 👩‍💻 Programming & Scripting
 <div>
   <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
 </div>
@@ -219,8 +218,10 @@ Aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ---
 
-<h2>🎓 Education</h2>
-A.A.S. in Cybersecurity
+## 🎓 Education
+
+**Associate in Applied Science (A.A.S.) – Cybersecurity**  
+Westchester Community College
 
 ---
 
@@ -230,44 +231,28 @@ A.A.S. in Cybersecurity
 
 ---
 
-## 🙌 Volunteer Work 
-Penetration Testing 
-  - Location: Burke Rehabilitation Hospital
-  - Dates: Jan 2017 through May 2019 
-    - Performing bi-weekly phishing campaigns from within the network
-    - Assisting IT management in the creation of security audits and reports
-    - Working with staff to document and troubleshoot technical issues
-    - Resolving helpdesk tickets relating to hardware and software
-    - Configuring database entries to ensure HIPAA compliance with medical records
+## 💼 Internships & Experience
 
----
+**Cybersecurity Research Intern** – Westchester CC / Mercy College  
+Created phishing simulations, tested controls, presented research findings.
 
-## 💻 Internships
-Cybersecurity Research Intern
-Westchester Community College / Mercy College 
-Jun 2018 
-Westchester, NY
-- Created a phishing campaign environment
-- Tested, deploy, and defined research results
-- Implemented the project and live demonstration
+**Junior Computer Technician** – Tekovery  
+Configured, tested, and diagnosed hardware/software issues.
 
-Summer Internship
-Westchester Community College
-Jun 2018 
-- Recertified hardware equipment for Fall semester
-- Maintained and supported pcs
-- Managed helpdesk tickets troubleshoot and repair
-
-Junior Computer Technician Intern
-Tekovery
-Sep 2016 to Oct 2016 
-Mount Vernon, NY
-- Tested,configured, and prepared computer equipment 
-- Diagnosed hardware and software issues
+**Volunteer Penetration Tester** – Burke Rehabilitation Hospital  
+- Ran phishing campaigns & security audits  
+- Helped maintain HIPAA-compliant records  
+- Supported technical troubleshooting
  
 ---
 
-## Organizations attended
+## 🌐 Organizations & Competitions
+
+![National Cyber League](https://img.shields.io/badge/-National_Cyber_League-00274D?&style=for-the-badge&logoColor=white)  
+![CCDC](https://img.shields.io/badge/-CCDC_Competition-003366?&style=for-the-badge&logoColor=white)  
+![WiCyS](https://img.shields.io/badge/-WiCyS-92278F?&style=for-the-badge&logoColor=white)  
+![DEF CON](https://img.shields.io/badge/-DEF_CON-000000?&style=for-the-badge&logoColor=white)
+
 <div>
   <img src="https://img.shields.io/badge/-National_Cyber_League-00274D?&style=for-the-badge&logoColor=white" />
 </div>
@@ -288,38 +273,53 @@ Mount Vernon, NY
 
 ## 🤖 AI & LLM Interests
 
-- Prompt Engineering & RAG Architectures
-- Python, LangChain, Hugging Face, OpenAI API
-- AI Chatbots for cybersecurity FAQs and logs
-- Log anomaly detection with LLMs
-- Building AI-enhanced tools for SOC automation
+- Prompt Engineering & Retrieval-Augmented Generation (RAG)  
+- OpenAI API, LangChain, Hugging Face  
+- Building AI-enhanced cybersecurity tools  
+- Automating log analysis with LLMs  
+- Creating security-focused chatbots
 
 
 ---
 
 ## 🧠 Currently Learning
 
-- Advanced Prompt Engineering & LangChain
-- LLM Fine-Tuning & Custom Retrieval Pipelines
-- Secure AI Development & Threat Modeling
-- Building a full-stack AI-powered SOC dashboard
+- LLM Fine-Tuning & Secure Deployment  
+- SOC Dashboard with AI  
+- Adversarial Threat Modeling for AI  
+- Advanced Prompt Engineering
 
 ---
 
-<h2>Languages</h2>
-English and Spanish
+
+## 🌍 Languages
+
+**English** (Fluent)  
+**Spanish** (Fluent)
 
 ---
 
 ## 📫 Connect with Me
-
-- Portfolio Website: [...]
+- **LinkedIn**: [linkedin.com/in/linda-yamil-garaycochea-saune](https://www.linkedin.com/in/linda-yamil-garaycochea-saune/)
+- **Portfolio Website**: *Coming Soon*
+- **GitHub**: [github.com/lindasaune](https://github.com/lindasaune)
 
 ---
 
 **“Securing the digital world today — building the intelligent solutions of tomorrow.”**
 
 ---
+
+
+
+
+
+
+
+
+
+
+
 
 
 

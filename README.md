@@ -25,14 +25,13 @@ I am now eager to transition into this field, specifically aiming to join a Secu
 
 <h2>Proficiencies</h2>
 
-- Operating Systems: Windows 7/10/Server 2012, Ubuntu/Kali/Mint, Mac OSX
-- Software: Visual Studio, Wireshark, Autopsy, ProDiscover, HxD, Microsoft Office, OpenVAS, LophtCrack
+- Operating Systems: Windows 7/Server 2012, Ubuntu/Kali/Mint, Mac OSX
+- Software: HxD, 
 - Version Control Tools: Git
 - Continuous Integration Tools: Jenkins
 - Cloud Technology: AWS
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -72,6 +71,30 @@ I am now eager to transition into this field, specifically aiming to join a Secu
 
 <div>
   <img src="https://img.shields.io/badge/-Microsoft_Office-D83B01?&style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-OpenVAS-339966?&style=for-the-badge&logoColor=white" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-L0phtCrack-000000?&style=for-the-badge&logoColor=white" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-Autopsy-2A2A2A?&style=for-the-badge&logoColor=white" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-ProDiscover-1F3A93?&style=for-the-badge&logoColor=white" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-HxD-800000?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Endpoint

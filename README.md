@@ -3,7 +3,7 @@ I have profound interest in technology and a dedication to solving complex probl
 
 ## Objective
 
-I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -23,12 +23,6 @@ I am now eager to transition into this field, specifically aiming to join a Secu
 - NCL (National Cyber League) year 2018
 - CDDC (Collegiate Cyber Defense Competition) year 2019
 
-<h2>Proficiencies</h2>
-
-- Operating Systems: /Mint, Mac OSX
-- Version Control Tools: Git
-- Continuous Integration Tools: Jenkins
-- Cloud Technology: AWS
 
 ## Skills
 
@@ -203,8 +197,8 @@ Junior Computer Technician Intern
 Tekovery
 Sep 2016 to Oct 2016 
 Mount Vernon, NY
--Tested, configured, and prepared computer equipment 
--Diagnosed hardware and software issues 
+- Tested,configured, and prepared computer equipment 
+- Diagnosed hardware and software issues 
 
 ## Organizations attended
 <div>

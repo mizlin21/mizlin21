@@ -27,7 +27,6 @@ I am now eager to transition into this field, specifically aiming to join a Secu
 
 - Operating Systems: Windows 7/10/Server 2012, Ubuntu/Kali/Mint, Mac OSX
 - Software: Visual Studio, Wireshark, Autopsy, ProDiscover, HxD, Microsoft Office, OpenVAS, LophtCrack
-- Programming Languages: Visual Basic, PowerShell, Python, Bash
 - Version Control Tools: Git
 - Continuous Integration Tools: Jenkins
 - Cloud Technology: AWS
@@ -50,6 +49,14 @@ I am now eager to transition into this field, specifically aiming to join a Secu
 </div>
 
 <div>
+  <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-Windows_10-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
+<div>
   <img src="https://img.shields.io/badge/-Windows_11-0078D6?&style=for-the-badge&logo=windows11&logoColor=white" />
 </div>
 
@@ -57,6 +64,11 @@ I am now eager to transition into this field, specifically aiming to join a Secu
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+
+### Software 
+<div>
+  <img src="https://img.shields.io/badge/-Visual_Studio-5C2D91?&style=for-the-badge&logo=visualstudio&logoColor=white" />
+</div>
 
 ### Endpoint
 <div>
@@ -90,6 +102,9 @@ I am now eager to transition into this field, specifically aiming to join a Secu
   <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
 </div>
 
+<div>
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
+</div>
 
 <h2>Certifications</h2>
 

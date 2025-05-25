@@ -1,10 +1,10 @@
-<h1>Hi, I'm Linda! <br/> <a href="https://www.linkedin.com/in/linda-yamil-garaycochea-saune/">Cybersecurity Professional</a> </h1>
+<h1>👋 Hi, I'm Linda! <br/> <a href="https://www.linkedin.com/in/linda-yamil-garaycochea-saune/">Cybersecurity Professional</a> </h1>
 
 
 **Cybersecurity Professional | AI & LLM Explorer | Problem-Solver with a Passion for Technology**
 
 ---
-## 🚀 About Me
+##🧑‍💻 About Me
 I have profound interest in technology and a dedication to solving complex problems.
 
 I'm a cybersecurity professional with hands-on experience in system protection, threat detection, and digital forensics. I'm currently expanding my skill set into the world of Artificial Intelligence, particularly focusing on Large Language Models (LLMs) and how they can be used to enhance security operations, automate analysis, and support cyber defense strategies.
@@ -51,9 +51,49 @@ Aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ---
+
+## 🛡️ Cybersecurity Skills
+
+- Network Security & Firewalls (Cisco Umbrella, pfSense)
+
+- Security Monitoring (Wireshark, Splunk, ELK, Snort) 
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+
+
+- Vulnerability Scanning ( OpenVAS)
+<div>
+  <img src="https://img.shields.io/badge/-OpenVAS-339966?&style=for-the-badge&logoColor=white" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logoColor=white" />
+</div>
+
+- Threat Intelligence & IOC Analysis (AbuseIPDB, OTX)
+
+- Digital Forensics (Autopsy, ProDiscover, HxD)
+
+<div>
+  <img src="https://img.shields.io/badge/-Autopsy-2A2A2A?&style=for-the-badge&logoColor=white" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-ProDiscover-1F3A93?&style=for-the-badge&logoColor=white" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-HxD-800000?&style=for-the-badge&logoColor=white" />
+</div>
+
+- Security Policy & Compliance (NIST, ISO 27001)
+
+---
+
 ## Proficiencies 
 
-## Operating Systems
+### Operating Systems
 <div>
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
 </div>
@@ -79,13 +119,7 @@ Aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 </div>
 
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 
-<div>
-  <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logoColor=white" />
-</div>
 
 ### Software 
 <div>
@@ -100,25 +134,12 @@ Aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
   <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
 </div>
 
-<div>
-  <img src="https://img.shields.io/badge/-OpenVAS-339966?&style=for-the-badge&logoColor=white" />
-</div>
 
 <div>
   <img src="https://img.shields.io/badge/-L0phtCrack-000000?&style=for-the-badge&logoColor=white" />
 </div>
 
-<div>
-  <img src="https://img.shields.io/badge/-Autopsy-2A2A2A?&style=for-the-badge&logoColor=white" />
-</div>
 
-<div>
-  <img src="https://img.shields.io/badge/-ProDiscover-1F3A93?&style=for-the-badge&logoColor=white" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/-HxD-800000?&style=for-the-badge&logoColor=white" />
-</div>
 
 ### Endpoint
 <div>
@@ -192,7 +213,7 @@ A.A.S. in Cybersecurity
 
 ---
 
-## Volunteer
+## 🙌 Volunteer Work 
 Penetration Testing 
   - Location: Burke Rehabilitation Hospital
   - Dates: Jan 2017 through May 2019 
@@ -248,17 +269,6 @@ Mount Vernon, NY
 
 ---
 
-## 🛡️ Cybersecurity Skills
-
-- Network Security & Firewalls (Cisco Umbrella, pfSense)
-- Security Monitoring (Wireshark, Splunk, ELK, Snort)
-- Vulnerability Scanning (Nmap, OpenVAS)
-- Threat Intelligence & IOC Analysis (AbuseIPDB, OTX)
-- Digital Forensics (Autopsy, ProDiscover, HxD)
-- Security Policy & Compliance (NIST, ISO 27001)
-
----
-
 ## 🤖 AI & LLM Interests
 
 - Prompt Engineering & RAG Architectures
@@ -294,7 +304,10 @@ English and Spanish
 
 ---
 
-##
+
+
+
+
 
 
 

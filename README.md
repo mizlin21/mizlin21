@@ -9,9 +9,13 @@ I have profound interest in technology and a dedication to solving complex probl
 
 I'm a cybersecurity professional with hands-on experience in system protection, threat detection, and digital forensics. I'm currently expanding my skill set into the world of Artificial Intelligence, particularly focusing on Large Language Models (LLMs) and how they can be used to enhance security operations, automate analysis, and support cyber defense strategies.
 
+---
+
 ## Objective
 
 Aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+---
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -25,12 +29,14 @@ Aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 - <b>Creating my website</b>
 
+---
 
 <h2>Competitions</h2>
 
 - NCL (National Cyber League) year 2018
 - CDDC (Collegiate Cyber Defense Competition) year 2019
 
+---
 
 ## 
 ## 📁 Featured Skill Projects
@@ -151,6 +157,8 @@ Aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
   <img src="https://img.shields.io/badge/-Visual_Basic-512BD4?&style=for-the-badge&logo=dotnet&logoColor=white" />
 </div>
 
+---
+
 ## 📜 Certifications
 <div>
   <img src="https://img.shields.io/badge/-Google_IT_Support-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
@@ -168,12 +176,18 @@ Aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
   <img src="https://img.shields.io/badge/-FEMA_IS--100.C_Certification-004B87?&style=for-the-badge&logo=gov&logoColor=white" />
 </div>
 
+---
+
 <h2>Education</h2>
 A.A.S. in Cybersecurity
+
+---
 
 <h2>Activities</h2>
 - WICYS year 2018 and 2019
 - Cybersecurity club
+
+---
 
 ## Volunteer
 Penetration Testing 
@@ -184,6 +198,8 @@ Penetration Testing
     - Working with staff to document and troubleshoot technical issues
     - Resolving helpdesk tickets relating to hardware and software
     - Configuring database entries to ensure HIPAA compliance with medical records
+
+---
 
 ## Internships
 Cybersecurity Research Intern
@@ -206,7 +222,9 @@ Tekovery
 Sep 2016 to Oct 2016 
 Mount Vernon, NY
 - Tested,configured, and prepared computer equipment 
-- Diagnosed hardware and software issues 
+- Diagnosed hardware and software issues
+ 
+---
 
 ## Organizations attended
 <div>
@@ -225,10 +243,12 @@ Mount Vernon, NY
   <img src="https://img.shields.io/badge/-DEF_CON-000000?&style=for-the-badge&logoColor=white" />
 </div>
 
+---
 
 <h2>Languages</h2>
 English and Spanish
 
+---
 
 **“Securing the digital world today — building the intelligent solutions of tomorrow.”**
 

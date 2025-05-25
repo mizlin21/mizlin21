@@ -4,7 +4,8 @@
 **Cybersecurity Professional | AI & LLM Explorer | Problem-Solver with a Passion for Technology**
 
 ---
-##🧑‍💻 About Me
+
+## 🧑‍💻 About Me
 I have profound interest in technology and a dedication to solving complex problems.
 
 I'm a cybersecurity professional with hands-on experience in system protection, threat detection, and digital forensics. I'm currently expanding my skill set into the world of Artificial Intelligence, particularly focusing on Large Language Models (LLMs) and how they can be used to enhance security operations, automate analysis, and support cyber defense strategies.
@@ -54,14 +55,26 @@ Aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## 🛡️ Cybersecurity Skills
 
-- Network Security & Firewalls (Cisco Umbrella, pfSense)
+- Network Security & Firewalls 
 
-- Security Monitoring (Wireshark, Splunk, ELK, Snort) 
+<div>
+  <img src="https://img.shields.io/badge/-Cisco_Umbrella-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-pfSense-23324D?&style=for-the-badge&logoColor=white" />
+</div>
+
+- Security Monitoring  
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 
+<div>
+  <img src="https://img.shields.io/badge/-Snort-C80000?&style=for-the-badge&logoColor=white" />
+</div>
 
-- Vulnerability Scanning ( OpenVAS)
+
+- Vulnerability Scanning 
 <div>
   <img src="https://img.shields.io/badge/-OpenVAS-339966?&style=for-the-badge&logoColor=white" />
 </div>
@@ -72,7 +85,7 @@ Aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 - Threat Intelligence & IOC Analysis (AbuseIPDB, OTX)
 
-- Digital Forensics (Autopsy, ProDiscover, HxD)
+- Digital Forensics
 
 <div>
   <img src="https://img.shields.io/badge/-Autopsy-2A2A2A?&style=for-the-badge&logoColor=white" />
@@ -86,7 +99,11 @@ Aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
   <img src="https://img.shields.io/badge/-HxD-800000?&style=for-the-badge&logoColor=white" />
 </div>
 
-- Security Policy & Compliance (NIST, ISO 27001)
+- Security Policy & Compliance 
+
+<div>
+  <img src="https://img.shields.io/badge/-NIST-000000?&style=for-the-badge&logoColor=white" />
+</div>
 
 ---
 
@@ -118,8 +135,6 @@ Aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 </div>
 
 
-
-
 ### Software 
 <div>
   <img src="https://img.shields.io/badge/-Visual_Studio-5C2D91?&style=for-the-badge&logo=visualstudio&logoColor=white" />
@@ -137,7 +152,6 @@ Aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 <div>
   <img src="https://img.shields.io/badge/-L0phtCrack-000000?&style=for-the-badge&logoColor=white" />
 </div>
-
 
 
 ### Endpoint
@@ -295,7 +309,7 @@ English and Spanish
 
 ## 📫 Connect with Me
 
-- Portfolio Website: []
+- Portfolio Website: [...]
 
 ---
 

@@ -57,7 +57,6 @@ Aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 - Network Security & Firewalls (Cisco Umbrella, pfSense)
 
 - Security Monitoring (Wireshark, Splunk, ELK, Snort) 
-### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 

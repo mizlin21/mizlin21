@@ -29,8 +29,7 @@ I am now eager to transition into this field, specifically aiming to join a Secu
 
 <h2>Proficiencies</h2>
 
-- Operating Systems: Windows 7/Server 2012, Ubuntu/Kali/Mint, Mac OSX
-- Software: HxD, 
+- Operating Systems: Windows 7/Server 2012, /Mint, Mac OSX
 - Version Control Tools: Git
 - Continuous Integration Tools: Jenkins
 - Cloud Technology: AWS
@@ -112,7 +111,7 @@ I am now eager to transition into this field, specifically aiming to join a Secu
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-##Programming Languages 
+### Programming Languages 
 <div>
   <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
 </div>
@@ -141,10 +140,6 @@ I am now eager to transition into this field, specifically aiming to join a Secu
   <img src="https://img.shields.io/badge/-Visual_Basic-512BD4?&style=for-the-badge&logo=dotnet&logoColor=white" />
 </div>
 
-<h2>Certifications</h2>
-
-- FEMA IS-100.C: Introduction To Incident Command System, ICS-100
-
 ## Certifications
 
 <div>
@@ -170,7 +165,7 @@ A.A.S. in Cybersecurity
 - WICYS year 2018 and 2019
 - Cybersecurity club
 
-## Volunteer</h2>
+## Volunteer
 Penetration Testing 
   - Location: Burke Rehabilitation Hospital
   - Dates: Jan 2017 through May 2019 

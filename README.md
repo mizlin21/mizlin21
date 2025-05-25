@@ -21,15 +21,11 @@ I am now eager to transition into this field, specifically aiming to join a Secu
 <h2>Competitions</h2>
 
 - NCL (National Cyber League) year 2018
-<div>
-  <img src="https://img.shields.io/badge/-National_Cyber_League-00274D?&style=for-the-badge&logoColor=white" />
-</div>
-
 - CDDC (Collegiate Cyber Defense Competition) year 2019
 
 <h2>Proficiencies</h2>
 
-- Operating Systems: Windows 7/Server 2012, /Mint, Mac OSX
+- Operating Systems: /Mint, Mac OSX
 - Version Control Tools: Git
 - Continuous Integration Tools: Jenkins
 - Cloud Technology: AWS
@@ -55,6 +51,10 @@ I am now eager to transition into this field, specifically aiming to join a Secu
 </div>
 
 <div>
+  <img src="https://img.shields.io/badge/-Windows_7-003399?&style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
+<div>
   <img src="https://img.shields.io/badge/-Windows_10-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
@@ -62,10 +62,18 @@ I am now eager to transition into this field, specifically aiming to join a Secu
   <img src="https://img.shields.io/badge/-Windows_11-0078D6?&style=for-the-badge&logo=windows11&logoColor=white" />
 </div>
 
+<div>
+  <img src="https://img.shields.io/badge/-Windows_Server_2012-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+
+<div>
+  <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logoColor=white" />
+</div>
 
 ### Software 
 <div>
@@ -197,6 +205,24 @@ Sep 2016 to Oct 2016
 Mount Vernon, NY
 -Tested, configured, and prepared computer equipment 
 -Diagnosed hardware and software issues 
+
+## Organizations attended
+<div>
+  <img src="https://img.shields.io/badge/-National_Cyber_League-00274D?&style=for-the-badge&logoColor=white" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-CCDC_Competition-003366?&style=for-the-badge&logoColor=white" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-WiCyS-92278F?&style=for-the-badge&logoColor=white" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-DEF_CON-000000?&style=for-the-badge&logoColor=white" />
+</div>
+
 
 <h2>Languages</h2>
 English and Spanish

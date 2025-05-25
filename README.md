@@ -50,6 +50,8 @@ Aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+---
+
 ## Operating Systems
 <div>
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />

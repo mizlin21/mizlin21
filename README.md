@@ -70,6 +70,10 @@ I am now eager to transition into this field, specifically aiming to join a Secu
   <img src="https://img.shields.io/badge/-Visual_Studio-5C2D91?&style=for-the-badge&logo=visualstudio&logoColor=white" />
 </div>
 
+<div>
+  <img src="https://img.shields.io/badge/-Microsoft_Office-D83B01?&style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+</div>
+
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
@@ -106,25 +110,30 @@ I am now eager to transition into this field, specifically aiming to join a Secu
   <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
 </div>
 
+<div>
+  <img src="https://img.shields.io/badge/-Visual_Basic-512BD4?&style=for-the-badge&logo=dotnet&logoColor=white" />
+</div>
+
 <h2>Certifications</h2>
 
-- Google IT support certification
-- Google Project Management Certification
-- Google cybersecurity Certification
 - FEMA IS-100.C: Introduction To Incident Command System, ICS-100
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
 
 <div>
   <img src="https://img.shields.io/badge/-Google_IT_Support-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-Google_Cybersecurity_Cert-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-Google_Project_Management-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-FEMA_IS--100.C_Certification-004B87?&style=for-the-badge&logo=gov&logoColor=white" />
 </div>
 
 <h2>Education</h2>

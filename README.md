@@ -218,16 +218,16 @@ I'm a cybersecurity professional with hands-on experience in system protection, 
 
 ---
 
+<h2>Activities</h2>
+- WICYS year 2018 and 2019
+- Cybersecurity club
+
+---
+
 ## 🎓 Education
 
 **Associate in Applied Science (A.A.S.) – Cybersecurity**  
 Westchester Community College
-
----
-
-<h2>Activities</h2>
-- WICYS year 2018 and 2019
-- Cybersecurity club
 
 ---
 
@@ -244,15 +244,6 @@ Configured, tested, and diagnosed hardware/software issues.
 - Helped maintain HIPAA-compliant records  
 - Supported technical troubleshooting
  
----
-
-## 🌐 Organizations & Competitions
-
-![National Cyber League](https://img.shields.io/badge/-National_Cyber_League-00274D?&style=for-the-badge&logoColor=white)  
-![CCDC](https://img.shields.io/badge/-CCDC_Competition-003366?&style=for-the-badge&logoColor=white)  
-![WiCyS](https://img.shields.io/badge/-WiCyS-92278F?&style=for-the-badge&logoColor=white)  
-![DEF CON](https://img.shields.io/badge/-DEF_CON-000000?&style=for-the-badge&logoColor=white)
-
 ---
 
 ## 🤖 AI & LLM Interests
@@ -275,6 +266,14 @@ Configured, tested, and diagnosed hardware/software issues.
 
 ---
 
+## 🌐 Organizations 
+
+![National Cyber League](https://img.shields.io/badge/-National_Cyber_League-00274D?&style=for-the-badge&logoColor=white)  
+![CCDC](https://img.shields.io/badge/-CCDC_Competition-003366?&style=for-the-badge&logoColor=white)  
+![WiCyS](https://img.shields.io/badge/-WiCyS-92278F?&style=for-the-badge&logoColor=white)  
+![DEF CON](https://img.shields.io/badge/-DEF_CON-000000?&style=for-the-badge&logoColor=white)
+
+---
 
 ## 🌍 Languages
 

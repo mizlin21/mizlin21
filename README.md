@@ -123,6 +123,10 @@ I am now eager to transition into this field, specifically aiming to join a Secu
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
+<div>
+  <img src="https://img.shields.io/badge/-Google_IT_Support-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+</div>
+
 <h2>Education</h2>
 A.A.S. in Cybersecurity
 

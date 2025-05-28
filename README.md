@@ -283,7 +283,7 @@ Configured, tested, and diagnosed hardware/software issues.
 ## 📫 Connect with Me
 - **LinkedIn**: [linkedin.com/in/linda-yamil-garaycochea-saune](https://www.linkedin.com/in/linda-yamil-garaycochea-saune/)
 - **Portfolio Website**: *Coming Soon*
-- **GitHub**: [github.com/lindasaune](https://github.com/mizlin21)
+- **GitHub**: [github.com/mizlin21](https://github.com/mizlin21)
 
 ---
 

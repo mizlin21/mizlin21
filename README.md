@@ -1,297 +1,130 @@
-<h1>👋 Hi, I'm Linda! <br/> <a href="https://www.linkedin.com/in/linda-yamil-garaycochea-saune/">Cybersecurity Professional</a> </h1>
+<!-- HEADER / BANNER -->
+![banner](https://img.shields.io/badge/A.I%20Security%20Architect-Training-black?style=for-the-badge&logo=openai)
 
 
-**Cybersecurity Professional | AI & LLM Explorer | Problem-Solver with a Passion for Technology**
+# 🌐 Hi, I’m Linda — Cybersecurity & AI Security Builder  
+**Cybersecurity Professional | SOC + AI Security | LLM Defense | Future AI Security Architect**
 
----
+I’m a cybersecurity professional specializing in **AI-enhanced detection, secure LLM deployment, adversarial defense**, and security automation. I’m currently building defensive AI tools, SOC automations, and secure agent workflows designed to harden modern AI systems against emerging threats.
 
-## 🧑‍💻 About Me
-I have profound interest in technology and a dedication to solving complex problems.
-
----
-
-## 🎯 Objective
-
-**To contribute to a SOC environment as a Tier 1 Analyst while integrating AI-driven tools to strengthen cyber defense strategies.**
+> **Securing AI systems today — architecting intelligent defenses for tomorrow.**
 
 ---
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+## 🚀 TECH STACK  
+### 🧠 AI / LLM  
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-4B8BBE?style=for-the-badge)
+![Hugging%20Face](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface)
+![RAG](https://img.shields.io/badge/RAG-Security-black?style=for-the-badge)
 
-- <b>PowerShell</b>
-  - 
-- <b>Python</b>
-  - Basic Python Workshop
-    #nms-web
+### 🔐 Cybersecurity  
+![Nessus](https://img.shields.io/badge/Nessus-1A1A1A?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1A1A1A?style=for-the-badge&logo=wireshark)
 
-    upload product video for showing basic Python workshop
-
-- <b>Creating my website</b>
-
----
-## 🏆 Competitions
-
-- **NCL (National Cyber League)** – 2018  
-- **CCDC (Collegiate Cyber Defense Competition)** – 2019
+### 🧰 Tools  
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-1A1A1A?style=for-the-badge&logo=gnu-bash)
+![PowerShell](https://img.shields.io/badge/PowerShell-003399?style=for-the-badge&logo=powershell)
 
 ---
 
-## 
-## 📁 Featured Skill Projects
+# 🔐 What I’m Focused On
+### Building skills that point toward:
+- AI Security Engineering
+- LLM Adversarial Defense
+- Secure AI Deployment
+- AI-Enhanced SOC
+- Agent-Based Defense
+- Secure AI API Architecture
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
----
-
-## 🛡️ Cybersecurity Skills
-
-### Network Security & Firewalls 
-
-<div>
-  <img src="https://img.shields.io/badge/-Cisco_Umbrella-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/-pfSense-23324D?&style=for-the-badge&logoColor=white" />
-</div>
-
-### Security Monitoring  
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-
-<div>
-  <img src="https://img.shields.io/badge/-Snort-C80000?&style=for-the-badge&logoColor=white" />
-</div>
-
-
-### Vulnerability Scanning 
-<div>
-  <img src="https://img.shields.io/badge/-OpenVAS-339966?&style=for-the-badge&logoColor=white" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logoColor=white" />
-</div>
-
-### Threat Intelligence & IOC Analysis (AbuseIPDB, OTX)
-
-### Digital Forensics
-
-<div>
-  <img src="https://img.shields.io/badge/-Autopsy-2A2A2A?&style=for-the-badge&logoColor=white" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/-ProDiscover-1F3A93?&style=for-the-badge&logoColor=white" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/-HxD-800000?&style=for-the-badge&logoColor=white" />
-</div>
-
-### Security Policy & Compliance 
-
-<div>
-  <img src="https://img.shields.io/badge/-NIST-000000?&style=for-the-badge&logoColor=white" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/-MITRE_ATT&CK-990000?&style=for-the-badge&logoColor=white" />
-</div>
+### Topics I currently study:
+- Prompt-injection defense
+- Secure agent systems
+- Adversarial evaluation
+- RAG security
+- AI-powered incident response
 
 ---
 
-## 💻 Platforms & Tools
+# 🚀 AI + Cybersecurity Projects  
+*(More in progress — continuously updating)*
 
-### Operating Systems
-<div>
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
-</div>
+### 🔸 **Secure Log Analyzer (MITRE Mapping)**
+Python-based detection pipeline that analyzes authentication logs, surfaces suspicious behavior, and ties detections to ATT&CK tactics.
 
-<div>
-  <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
-</div>
+### 🔸 **Secure API Request Validator**
+Validates and sanitizes API requests to prevent misuse and malicious input.
 
-<div>
-  <img src="https://img.shields.io/badge/-Windows_7-003399?&style=for-the-badge&logo=windows&logoColor=white" />
-</div>
+### 🔸 **Mini Vulnerability Scanner**
+Identifies common web exposure, misconfigurations, and injectable inputs.
 
-<div>
-  <img src="https://img.shields.io/badge/-Windows_10-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
-</div>
+### 🔸 **AI-Powered SOC Assistant *(in progress)***
+AI agent that automates detection, reporting, and investigations.
 
-<div>
-  <img src="https://img.shields.io/badge/-Windows_11-0078D6?&style=for-the-badge&logo=windows11&logoColor=white" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/-Windows_Server_2012-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
-</div>
-
-
-### Software 
-<div>
-  <img src="https://img.shields.io/badge/-Visual_Studio-5C2D91?&style=for-the-badge&logo=visualstudio&logoColor=white" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/-Microsoft_Office-D83B01?&style=for-the-badge&logo=microsoftoffice&logoColor=white" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
-</div>
-
-
-<div>
-  <img src="https://img.shields.io/badge/-L0phtCrack-000000?&style=for-the-badge&logoColor=white" />
-</div>
-
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-### 👩‍💻 Programming & Scripting
-<div>
-  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/-Visual_Basic-512BD4?&style=for-the-badge&logo=dotnet&logoColor=white" />
-</div>
+### 🔸 **LLM-Enhanced Detection *(in progress)***
+Using LLM reasoning to surface suspicious log activity.
 
 ---
 
-## 📜 Certifications
-<div>
-  <img src="https://img.shields.io/badge/-Google_IT_Support-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/-Google_Cybersecurity_Cert-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/-Google_Project_Management-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/-FEMA_IS--100.C_Certification-004B87?&style=for-the-badge&logo=gov&logoColor=white" />
-</div>
+# 🧠 AI Security Interests  
+- adversarial prompt defense  
+- secure model deployment  
+- LLM misuse detection  
+- SOC + AI augmentation  
+- secure AI pipelines  
+- autonomous agent safety  
 
 ---
 
-<h2>Activities</h2>
-- WICYS year 2018 and 2019
-- Cybersecurity club
+# 📊 GitHub Analytics  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mizlin21&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mizlin21&layout=compact&theme=radical)
+
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=mizlin21&theme=radical)
+
+![profile views](https://komarev.com/ghpvc/?username=mizlin21&color=blueviolet&style=flat-square)
 
 ---
 
-## 🎓 Education
-
-**Associate in Applied Science (A.A.S.) – Cybersecurity**  
-Westchester Community College
+# 🏆 Trophies  
+![trophy](https://github-profile-trophy.vercel.app/?username=mizlin21&theme=tokyonight&margin-w=10)
 
 ---
 
-## 💼 Internships & Experience
-
-**Cybersecurity Research Intern** – Westchester CC / Mercy College  
-Created phishing simulations, tested controls, presented research findings.
-
-**Junior Computer Technician** – Tekovery  
-Configured, tested, and diagnosed hardware/software issues.
-
-**Volunteer Penetration Tester** – Burke Rehabilitation Hospital  
-- Ran phishing campaigns & security audits  
-- Helped maintain HIPAA-compliant records  
-- Supported technical troubleshooting
- 
----
-
-## 🤖 AI & LLM Interests
-
-- Prompt Engineering & Retrieval-Augmented Generation (RAG)  
-- OpenAI API, LangChain, Hugging Face  
-- Building AI-enhanced cybersecurity tools  
-- Automating log analysis with LLMs  
-- Creating security-focused chatbots
-
+# 🧰 Tools & Platforms  
+Linux · Windows · OpenAI API · LangChain · Python · Bash · Splunk *(lab)* · Elastic *(lab)*
 
 ---
 
-## 🧠 Currently Learning
-
-- LLM Fine-Tuning & Secure Deployment  
-- SOC Dashboard with AI  
-- Adversarial Threat Modeling for AI  
-- Advanced Prompt Engineering
+# 🛡️ Professional Objective  
+To contribute to **SOC operations while developing AI-driven detection capabilities**, automating incident response, and laying the foundation toward becoming an **AI Security Architect** specializing in secure LLM systems.
 
 ---
 
-## 🌐 Organizations 
-
-![National Cyber League](https://img.shields.io/badge/-National_Cyber_League-00274D?&style=for-the-badge&logoColor=white)  
-![CCDC](https://img.shields.io/badge/-CCDC_Competition-003366?&style=for-the-badge&logoColor=white)  
-![WiCyS](https://img.shields.io/badge/-WiCyS-92278F?&style=for-the-badge&logoColor=white)  
-![DEF CON](https://img.shields.io/badge/-DEF_CON-000000?&style=for-the-badge&logoColor=white)
+# 📚 Education  
+**A.A.S Cybersecurity – Westchester Community College**
 
 ---
 
-## 🌍 Languages
-
-**English** (Fluent)  
-**Spanish** (Fluent)
-
----
-
-## 📫 Connect with Me
-- **LinkedIn**: [linkedin.com/in/linda-yamil-garaycochea-saune](https://www.linkedin.com/in/linda-yamil-garaycochea-saune/)
-- **Portfolio Website**: *Coming Soon*
-- **GitHub**: [github.com/mizlin21](https://github.com/mizlin21)
+# 📜 Certifications  
+- Google Cybersecurity Certificate  
+- ISC2 CC *(in progress)*  
+- CompTIA Security+ *(in progress)*  
 
 ---
 
-**“Securing the digital world today — building the intelligent solutions of tomorrow.”**
+# 🧩 Experience  
+Cybersecurity Research Intern – Westchester CC / Mercy College  
+Penetration Tester – Burke Rehabilitation Hospital  
+Junior Computer Technician – Tekovery  
 
 ---
 
-
+# 🤝 Find Me Online  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/linda-yamil-garaycochea-saune)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/mizlin21)
 
 
 

@@ -1,19 +1,12 @@
+<!-- HEADER / BANNER -->
+![banner](https://img.shields.io/badge/A.I%20Security%20Architect-Training-black?style=for-the-badge&logo=openai)
+
 # 👋 Hi, I’m Linda — Cybersecurity & AI Security Builder  
 **Cybersecurity Professional | SOC + AI Security | LLM Defense | Future AI Security Architect**
 
 I’m a cybersecurity professional specializing in **AI-enhanced detection**, **secure LLM deployment**, **adversarial defense**, and **security automation**. I build defensive AI tools, SOC automations, and secure agent workflows designed to harden modern systems against emerging AI-driven threats.
 
 > **Securing AI systems today — architecting intelligent defenses for tomorrow.**
-
----
-
-# 🔥 Visual Badges
-<p align="left">
-  <img src="https://img.shields.io/badge/AI%20Security-Architect%20Track-black?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/SOC-Analyst%20Path-blue?style=for-the-badge&logo=microsoftdefender" />
-  <img src="https://img.shields.io/badge/LLM-Defense%20Engineer-purple?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Professional-red?style=for-the-badge&logo=gnuprivacyguard" />
-</p>
 
 ---
 
